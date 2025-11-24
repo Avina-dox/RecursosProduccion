@@ -6,6 +6,7 @@ import NetSuite from "./images/NetSuite.svg";
 import ticket from "./images/ticket.svg"
 import production from "./images/production.svg"
 import attendance from "./images/attendance.svg"
+import cereal from "./images/cereal.svg"
 
 const apps = [
   {
@@ -44,7 +45,7 @@ const apps = [
     url: "https://dasavenagourmet123.sharepoint.com/sites/Produccion/Documentos%20compartidos/Forms/AllItems.aspx?RootFolder=%2Fsites%2FProduccion%2FDocumentos%20compartidos%2FEtiquetas%20para%20PT%2FBarras%20Crujientes&FolderCTID=0x012000DDB29070D6AB6142AC09FD528E110E49&View=%7BF5A64ED4%2D6484%2D4FE9%2D95AB%2D1E738D6CBADE%7D",
   },
   {
-    image: ticket,
+    image: cereal,
     title: "Etiquetas de Granola",
     description:
       "Genera e imprime etiquetas de granola para productos, facilitando la gestión de inventarios y ventas.",
