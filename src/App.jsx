@@ -75,7 +75,7 @@ const App = () => {
     <div className={`container ${darkMode ? "dark-mode" : "light-mode"}`}>
       <div className="title-container">
         <img src={LogoDasavena} />
-        <h1 className="title">Recursos Dasavena</h1>
+        <h1 className="title">Recursos Producción</h1>
       </div>
 
       <div className="input-container">
